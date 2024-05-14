@@ -1,7 +1,13 @@
 # lacreameo83-Simple-Omelette-Recipe-2
 
+## OVER VIEW
++ I've created this webpage to share a simple omelette recipe. My goal is to not only guide you through the method of making them but also to ensure they turn out delicious every time.
 
-
+## Tools
++ Visual Studio Code
+## Project source
++ Google
++ Mentor front end
 
 
 
